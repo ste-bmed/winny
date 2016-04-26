@@ -1,0 +1,2 @@
+C:\progetti\winmob\samples-ph8-1\Advanced Camera Sample\C#\CameraSampleCS\CameraSampleCS.csproj;x86
+C:\progetti\winmob\samples-ph8-1\Advanced Camera Sample\C#\MediaViewer\MediaViewer.csproj;x86
